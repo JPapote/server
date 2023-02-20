@@ -1,6 +1,8 @@
 # server
 
 npm install
+
+
 para correr la aplicacion: npm run dev
 
 <!-- ENV  -->
